@@ -37,8 +37,8 @@ def Send_req(url,payload):
         res = requests.get(url)
         if payload in res.text:
            print(Fore.GREEN +'[ XSS Found ✓ ]','   ' , f"{url}" + Fore.RESET)
-           print(Fore.GREEN , f"{url}" + Fore.RESET, file=open('hasil.txt','w'))
-           #print(Fore.GREEN +'XSS Found   -->','   ' , f"{url}" + Fore.RESET, file=open('hasil.txt','a'))
+           print(Fore.GREEN , f"{url}" + Fore.RESET, file=open('result.txt','w'))
+           #print(Fore.GREEN +'XSS Found   -->','   ' , f"{url}" + Fore.RESET, file=open('result.txt','a'))
         else:
            print(Fore.YELLOW +'[ XSS NOT Found ]','   ' , f"{url}" + Fore.RESET)
 
