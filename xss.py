@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-######## A-KENZI ########
+####### TRHACKNON #######
 ####### XSS TRACK #######
 ## 7000+ BYPASS PAYLOAD ##
 ###### OPEN SOURCE ######
@@ -19,7 +19,7 @@ print(
 ██▀─▀██▄▄▄▄─█▄▄▄▄─█████─████─▄─▄██─▀─██─███▀██─▄▀██
 ▀▄▄█▄▄▀▄▄▄▄▄▀▄▄▄▄▄▀▀▀▀▄▄▄▀▀▄▄▀▄▄▀▄▄▀▄▄▀▄▄▄▄▄▀▄▄▀▄▄▀
 # PAYLOAD BYPASS XSS 2022
-# Author Script : A-KENZI
+# Author Script : TRHACKNON
 # XSS Track 7000 Payload
         """ + Fore.RESET)
 
